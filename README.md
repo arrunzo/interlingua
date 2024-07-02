@@ -60,7 +60,6 @@ The majority of these blogs do not receive updates.
 
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
-
 ## Community
 [Discord](https://discord.gg/e8FxURCx)
 
