@@ -34,6 +34,11 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 [Basic Interlingua English Dictionary](https://en.wikibooks.org/wiki/Interlingua/Basic_Interlingua_English_Dictionary)
 
+### A list of English-Interlingua words
+[Explanation (in Interlingua)](https://www.interlingua.com/grammatica/un-lista-de-parolas-anglese-interlingua/)
+
+[English-Interlingua Vocabulary](https://www.interlingua.com/grammatica/vocabulario-anglese-interlingua/)
+
 
 ## Grammar
 
@@ -187,7 +192,7 @@ The majority of these blogs do not receive updates.
 
 [Documents by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/)
 
-[Interlingua Wiki](https://interlingua.fandom.com/wiki/Pagina_principal)
+[Interlingua Wiki (This is NOT Wikipedia!)](https://interlingua.fandom.com/wiki/Pagina_principal)
 
 [Dictionaries, grammars and courses (for English speakers)](https://www.interlingua.com/instruction-national/#anglese)
 
