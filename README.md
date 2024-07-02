@@ -107,7 +107,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 
 ## Blogs
-The majority of these blogs do not receive updates.
+**NOTE**: The majority of these blogs do not receive updates.
 
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
