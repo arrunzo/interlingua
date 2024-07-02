@@ -141,6 +141,8 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 [Forvo (Interlingua pronunciation dictionary)](https://forvo.com/languages/ia/)
 
+[Interlingua Spell Checker for Firefox](https://addons.mozilla.org/ia/firefox/addon/corrector_orthographic/)
+
 
 ### Translators
 [Online Interlingua-English Translator](https://interlingua-translator.vercel.app/)
