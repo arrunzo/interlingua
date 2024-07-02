@@ -3,7 +3,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 ![Interlingua flag](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Interlingua.svg/2560px-Flag_of_Interlingua.svg.png)
 
-<img src="Flag_of_Interlingua.svg.png" width="324" height="324">
+<img src="Flag_of_Interlingua.svg.png" width="640" height="407">
 
 
 ## ℹ️ Information about Interlingua
