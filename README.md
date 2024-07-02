@@ -1,6 +1,29 @@
 # Interlingua Resources
 A list of resources to learn Interlingua, a constructed language that connects European languages.
 
+## Blogs
+The majority of these blogs do not receive updates.
+
+[Poemas e pensatas](https://poemasepensatas.blogspot.com)
+
+[Blog personal de Peter Kovacs in interlingua](https://zalaegerszeg.blogspot.com/)
+
+[Interlingua multilingue](https://interlinguamultilingue.blogspot.com/)
+
+[Le Oculo Interlinguistic](https://oculointerlinguistic.blogspot.com/)
+
+[Francisco Forgiamonte scribe in Interlingua](https://forgiamonte.blogspot.com/)
+
+[Falcatorrosa](https://falcatorrosa2.blogspot.com/)
+
+[Le blog de Erik Enfors in Interlingua](https://untorrente.blogspot.com/)
+
+[Interlingua Scientia et Ecologia](https://interlingua-scientia.blogspot.com/)
+
+[Interlingua Hispanic](https://interlinguahispanic.blogspot.com/)
+
+
+
 ## Online Tools
 [Verbix (conjugate verbs)](https://docs.verbix.com/Languages/Interlingua)
 
