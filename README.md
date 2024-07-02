@@ -1,7 +1,7 @@
 # Interlingua Resources
 A list of resources to learn Interlingua, a constructed language that connects European languages.
 
-<img src="Flag_of_Interlingua.svg.png" width="640" height="407">
+<img src="Flag_of_Interlingua.svg.png" width="160" height="102">
 
 
 ## ℹ️ Information about Interlingua
@@ -39,7 +39,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 [English-Interlingua Vocabulary](https://www.interlingua.com/grammatica/vocabulario-anglese-interlingua/)
 
 ### Searchable Dictionaries
-[Multilingua Interlingua Dictionary (website of Ruud Harmsen)](https://rudhar.com/cgi-bin/cgi-grep.cgi)
+[Multilingual Interlingua Dictionary (website of Ruud Harmsen)](https://rudhar.com/cgi-bin/cgi-grep.cgi)
 
 [IEDICT Interlingua-English dictionary project (search tool)](http://www.denisowski.org/Interlingua/IEDICT/iedict_readme.html)
 
