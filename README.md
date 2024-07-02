@@ -3,7 +3,7 @@
 <div align="center">A list of resources to learn Interlingua, a constructed language that connects European languages.</div>
 <br/>
 <br/>
-<p align="center"><img src="Flag_of_Interlingua.svg.png" width="160" height="102"></p>
+<p align="center"><img src="Flag_of_Interlingua.png" width="160" height="102"></p>
 
 
 ## ℹ️ Information about Interlingua
