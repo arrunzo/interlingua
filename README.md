@@ -1,6 +1,28 @@
 # Interlingua Resources
 A list of resources to learn Interlingua, a constructed language that connects European languages.
 
+## Flashcards
+
+[Interlingua 2500 (Anki)](https://ankiweb.net/shared/info/304285234)
+
+[Interlingua vocabulary (Anki)](https://ankiweb.net/shared/info/1349681371)
+
+[Interlingua 500 (Quizlet)](https://quizlet.com/310657213/interlingua-500-flash-cards/)
+
+[Interlingua on Memrise community courses](https://community-courses.memrise.com/community/courses/english/?q=interlingua)
+
+
+## Courses
+
+[Interlingua course for beginners](https://www.interlingua.com/an/curso/)
+
+[Conversation Course (in Interlingua and English)](https://en.wikibooks.org/wiki/Interlingua/Curso_de_conversation)
+
+["Interlingua a Prime Vista" by Alexander Gode](https://archive.org/details/interlingua_a_prime_vista)
+
+[YouTube Playlist: Interlingua Course for Beginners](https://www.youtube.com/playlist?list=PLWT6uZb9pt05LDFLz2uGp-_-NCP4QCbNX)
+
+
 ## Reading Materials
 
 [Textos exemplar](https://www.interlingua.com/grammatica/grammatica/appendices/textos-exemplar/)
