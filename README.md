@@ -4,7 +4,8 @@
 <br/>
 <br/>
 <p align="center"><img src="Flag_of_Interlingua.png" width="427" height="271"></p>
-
+<br/>
+<br/>
 
 ## ℹ️ Information about Interlingua
 
