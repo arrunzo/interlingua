@@ -1,6 +1,54 @@
 # Interlingua Resources
 A list of resources to learn Interlingua, a constructed language that connects European languages.
 
+## Information about Interlingua
+
+[Official Site](https://www.interlingua.com/)
+
+[Omniglot](https://www.omniglot.com/writing/interlingua.htm)
+
+[Of Languages and Numbers](https://www.languagesandnumbers.com/how-to-count-in-interlingua/en/ina/)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Interlingua)
+
+
+## Dictionaries and Vocabulary
+
+[Interlingua: A Dictionary of the International Language by Alexander Gode](https://archive.org/details/interlinguaengli00inte/mode/2up)
+
+[Concise English–Interlingua Dictionary](https://www.interlingua.com/an/ceid/)
+
+[English-Interlingua Dictionary by Josu Lavin (PDF)](https://panix.com/~bartlett/DICTIONARIO_ANGLESE-INTERLINGUA.pdf)
+
+[English-Interlingua Dictionary by Josu Lavin (website)](https://interlingua.fandom.com/wiki/English-Interlingua_Dictionary)
+
+[Multilingua Interlingua Dictionary (website of Ruud Harmsen)](https://rudhar.com/cgi-bin/cgi-grep.cgi)
+
+[Interlingua English Dictionary revised by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/IED-rev2/index.htm)
+
+[IEDICT Interlingua-English dictionary project (search tool)](http://www.denisowski.org/Interlingua/IEDICT/iedict_readme.html)
+
+[List of grammatical words](https://www.interlingua.com/grammatica/grammatica/lista-de-particulas-grammatic/)
+
+[English-Interlingua Dictionary (Interlingua Wikipedia)](https://ia.wikipedia.org/wiki/Usator:Melv_douc/dictionario_anglese-interlingua)
+
+[Basic Interlingua English Dictionary](https://en.wikibooks.org/wiki/Interlingua/Basic_Interlingua_English_Dictionary)
+
+
+## Grammar
+
+[Interlingua: A Grammar of the International Language by Alexander Gode](https://archive.org/details/interlingua-grammar/mode/2up)
+
+[A Grammar of Interlingua (online version)](https://adoneilson.com/int/gi/)
+
+[Interlingua Grammar (Wikipedia article)](https://en.wikipedia.org/wiki/Interlingua_grammar)
+
+[Interlingua for Anglos by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/Interlingua%20for%20Anglos%20Qui1.pdf)
+
+[Summary of Interlingua Grammatical Forms](https://www.panix.com/~bartlett/Interlingua_Summary.html)
+
+
+
 ## Flashcards
 
 [Interlingua 2500 (Anki)](https://ankiweb.net/shared/info/304285234)
@@ -24,6 +72,8 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 
 ## Reading Materials
+
+[Wikipedia in Interlingua](https://ia.wikipedia.org/wiki/Pagina_principal)
 
 [Textos exemplar](https://www.interlingua.com/grammatica/grammatica/appendices/textos-exemplar/)
 
