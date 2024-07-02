@@ -40,7 +40,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 [English-Interlingua Vocabulary](https://www.interlingua.com/grammatica/vocabulario-anglese-interlingua/)
 
 
-##  Grammar
+## 🔤 Grammar
 
 [Interlingua: A Grammar of the International Language by Alexander Gode](https://archive.org/details/interlingua-grammar/mode/2up)
 
