@@ -12,7 +12,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 [Wikipedia](https://en.wikipedia.org/wiki/Interlingua)
 
 
-## Dictionaries and Vocabulary
+## 💬 Dictionaries and Vocabulary
 
 [Interlingua: A Dictionary of the International Language by Alexander Gode](https://archive.org/details/interlinguaengli00inte/mode/2up)
 
@@ -40,7 +40,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 [English-Interlingua Vocabulary](https://www.interlingua.com/grammatica/vocabulario-anglese-interlingua/)
 
 
-## Grammar
+##  Grammar
 
 [Interlingua: A Grammar of the International Language by Alexander Gode](https://archive.org/details/interlingua-grammar/mode/2up)
 
@@ -76,7 +76,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 [YouTube Playlist: Interlingua Course for Beginners](https://www.youtube.com/playlist?list=PLWT6uZb9pt05LDFLz2uGp-_-NCP4QCbNX)
 
 
-## Reading Materials
+## 📖 Reading Materials
 
 [Wikipedia in Interlingua](https://ia.wikipedia.org/wiki/Pagina_principal)
 
@@ -106,8 +106,8 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 
 
-## Blogs
-**NOTE**: The majority of these blogs do not receive updates.
+## ✍️ Blogs
+⚠️ **NOTE**: The majority of these blogs do not receive updates.
 
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
@@ -129,7 +129,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 
 
-## Online Tools
+## 🔨 Online Tools
 [Verbix (conjugate verbs)](https://docs.verbix.com/Languages/Interlingua)
 
 [Parlator de Interlingua (text to speech)](http://www.parlator.org/)
@@ -149,7 +149,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 
 
-## Creators
+## 📸 Creators
 ### Orlophe
 [YouTube](https://www.youtube.com/@orlophe)
 
