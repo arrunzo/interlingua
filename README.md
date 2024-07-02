@@ -1,6 +1,34 @@
 # Interlingua Resources
 A list of resources to learn Interlingua, a constructed language that connects European languages.
 
+## Reading Materials
+
+[Textos exemplar](https://www.interlingua.com/grammatica/grammatica/appendices/textos-exemplar/)
+
+[Litteratura in interlingua](https://www.interlingua.com/litteratura-in-interlingua/)
+
+[Facile a leger in interlingua](https://www.interlingua.com/facilealeger/)
+
+[eBooks (only PDF)](https://www.interlingua.com/e-libros/)
+
+[Historiettas e contos in interlingua (Short stories and tales in Interlingua)](https://ia.wikibooks.org/wiki/Historiettas_e_contos_in_interlingua)
+
+[Collection of Interlingua Texts](https://www.panix.com/~bartlett/interlingua/)
+
+[Some articles in Interlingua](https://wikisource.org/wiki/Main_Page/Interlingua/Articulos)
+
+["Dece contos" by Alexander Gode](https://interlingua.fandom.com/wiki/Dece_contos_(A._Gode))
+
+[Un dozena de breve contos (A dozen short stories)](https://interlingua.fandom.com/wiki/Un_dozena_de_breve_contos_(A._Gode))
+
+[Lecturas (translations of various texts)](https://interlingua.fandom.com/wiki/Lecturas)
+
+[Arias e cantos famose (translations of hymns and songs)](https://interlingua.fandom.com/wiki/Arias_e_cantos_famose)
+
+[Panorama (a magazine, requires a paid subscription)](https://www.interlingua.com/panorama/)
+
+
+
 ## Blogs
 The majority of these blogs do not receive updates.
 
