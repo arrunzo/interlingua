@@ -149,7 +149,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 
 
-## 📸 Creators
+## 🎥 Creators
 ### Orlophe
 [YouTube](https://www.youtube.com/@orlophe)
 
