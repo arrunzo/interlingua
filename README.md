@@ -85,9 +85,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 [Textos exemplar](https://www.interlingua.com/grammatica/grammatica/appendices/textos-exemplar/)
 
-[Litteratura in interlingua](https://www.interlingua.com/litteratura-in-interlingua/)
 
-[Facile a leger in interlingua](https://www.interlingua.com/facilealeger/)
 
 [eBooks (only PDF)](https://www.interlingua.com/e-libros/)
 
@@ -105,7 +103,12 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 [Arias e cantos famose (translations of hymns and songs)](https://interlingua.fandom.com/wiki/Arias_e_cantos_famose)
 
-[Panorama (a magazine, requires a paid subscription)](https://www.interlingua.com/panorama/)
+### Requires Payment
+[Litteratura in interlingua (Physical via Lulu)](https://www.interlingua.com/litteratura-in-interlingua/)
+
+[Facile a leger in interlingua (Physical via Lulu)](https://www.interlingua.com/facilealeger/)
+
+[Panorama (a magazine, physical and digital)](https://www.interlingua.com/panorama/)
 
 
 
