@@ -19,7 +19,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 ["Dece contos" by Alexander Gode](https://interlingua.fandom.com/wiki/Dece_contos_(A._Gode))
 
-[Un dozena de breve contos (A dozen short stories)](https://interlingua.fandom.com/wiki/Un_dozena_de_breve_contos_(A._Gode))
+["Un dozena de breve contos" by Alexander Gode (A dozen short stories)](https://interlingua.fandom.com/wiki/Un_dozena_de_breve_contos_(A._Gode))
 
 [Lecturas (translations of various texts)](https://interlingua.fandom.com/wiki/Lecturas)
 
