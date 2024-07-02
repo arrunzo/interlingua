@@ -180,7 +180,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 [Interlingua](https://t.me/+3KVoLFMJRjVhZTYx)
 
-## ❔ Other Things
+## ❓ Other Things
 
 [Radio Interlingua](https://www.interlingua.com/radio/)
 
