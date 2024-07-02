@@ -25,11 +25,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 [English-Interlingua Dictionary by Josu Lavin (website)](https://interlingua.fandom.com/wiki/English-Interlingua_Dictionary)
 
-[Multilingua Interlingua Dictionary (website of Ruud Harmsen)](https://rudhar.com/cgi-bin/cgi-grep.cgi)
-
 [Interlingua English Dictionary revised by Stanley Mulaik](https://rudhar.com/lingtics/intrlnga/StanleyMulaik/IED-rev2/index.htm)
-
-[IEDICT Interlingua-English dictionary project (search tool)](http://www.denisowski.org/Interlingua/IEDICT/iedict_readme.html)
 
 [List of grammatical words](https://www.interlingua.com/grammatica/grammatica/lista-de-particulas-grammatic/)
 
@@ -41,6 +37,11 @@ A list of resources to learn Interlingua, a constructed language that connects E
 [Explanation (in Interlingua)](https://www.interlingua.com/grammatica/un-lista-de-parolas-anglese-interlingua/)
 
 [English-Interlingua Vocabulary](https://www.interlingua.com/grammatica/vocabulario-anglese-interlingua/)
+
+### Searchable Dictionaries
+[Multilingua Interlingua Dictionary (website of Ruud Harmsen)](https://rudhar.com/cgi-bin/cgi-grep.cgi)
+
+[IEDICT Interlingua-English dictionary project (search tool)](http://www.denisowski.org/Interlingua/IEDICT/iedict_readme.html)
 
 
 ## 🔤 Grammar
