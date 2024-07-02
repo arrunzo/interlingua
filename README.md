@@ -1,6 +1,5 @@
 # Interlingua Resources
-A list of resources to learn Interlingua, a constructed language that connects European languages.
-
+<p style="text-align: center;">A list of resources to learn Interlingua, a constructed language that connects European languages.</p>
 <p align="center"><img src="Flag_of_Interlingua.svg.png" width="160" height="102"></p>
 
 
