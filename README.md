@@ -54,7 +54,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 
 
 
-## Flashcards
+## 📇 Flashcards
 
 [Interlingua 2500 (Anki)](https://ankiweb.net/shared/info/304285234)
 
