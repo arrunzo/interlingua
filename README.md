@@ -65,7 +65,7 @@ A list of resources to learn Interlingua, a constructed language that connects E
 [Interlingua on Memrise community courses](https://community-courses.memrise.com/community/courses/english/?q=interlingua)
 
 
-## Courses
+## 🏫 Courses
 
 [Interlingua course for beginners](https://www.interlingua.com/an/curso/)
 
