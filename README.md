@@ -178,7 +178,7 @@
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
 ## 👥 Community
-[Discord](https://discord.gg/e8FxURCx)
+[Discord](https://discord.gg/yVzm2bh2jz)
 
 [Reddit](https://www.reddit.com/r/interlingua/)
 
