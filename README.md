@@ -177,6 +177,12 @@
 
 [Poemas e pensatas](https://poemasepensatas.blogspot.com)
 
+### Kroyxt
+[YouTube](https://www.youtube.com/@Kroyxt)
+
+[TikTok](https://www.tiktok.com/@kroyxt)
+
+
 ## 👥 Community
 [Discord](https://discord.gg/yVzm2bh2jz)
 
