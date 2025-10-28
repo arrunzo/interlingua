@@ -6,7 +6,6 @@
 <p align="center"><img src="Flag_of_Interlingua.png" width="427" height="271"></p>
 <br/>
 <br/>
-[🎥 🎞️ Video Tour](https://www.youtube.com/watch?v=B7i4wBN8Y5E)
 
 ## ℹ️ Information about Interlingua
 
