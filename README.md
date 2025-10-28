@@ -7,6 +7,8 @@
 <br/>
 <br/>
 
+[🎥 🎞️ Video Tour](https://www.youtube.com/watch?v=B7i4wBN8Y5E)
+
 ## ℹ️ Information about Interlingua
 
 [Official Site](https://www.interlingua.com/)
