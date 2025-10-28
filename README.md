@@ -216,6 +216,6 @@
 
 [Pronunciation vocabulary by Josu Lavin](https://drive.google.com/file/d/1JEzvDB94fLH_7aRfq43qWqoUJnKrrMz6/view?usp=sharing)
 
-[Materials accumulated by Paul Bartlett](https://drive.google.com/file/d/1JEzvDB94fLH_7aRfq43qWqoUJnKrrMz6/view?usp=sharing)
+[Materials accumulated by Paul Bartlett](https://www.panix.com/~bartlett/interlingua/)
 
 
